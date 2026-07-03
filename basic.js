@@ -7,5 +7,6 @@ function setup() {
     let b = 10;
     let sum = a + b;
     let product = a * b;
-    console.log("Sum of a and b", )
+    console.log("Sum of a and b:", sum)
+    console.log("Product of a and b:", sum)
 }
