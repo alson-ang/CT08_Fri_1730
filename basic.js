@@ -3,5 +3,5 @@ function setup() {
     textSize(16);
     fill(0);
 
-    
+    let a = 5
 }
