@@ -1,8 +1,8 @@
 function setup() {
     new Canvas (800, 400);
-    background("yellow");    // Background colour
+    background(220);    // Background colour
     textSize(16);   // Text size
-    fill(0);    // Text colour
+    fill("red");    // Text colour
 
     let a = 5;
     let b = 10;
