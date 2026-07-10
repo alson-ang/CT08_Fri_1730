@@ -45,6 +45,7 @@ function setup() {
 
     while (number >= 1) {
         number--;
+        
     }
 }
 
