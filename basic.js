@@ -19,8 +19,8 @@ function setup() {
     let height = 5;
     let area = 0.5 * base * height;
 
-    console.log("Area:", area)
-    text(area, 100, 100)
+    console.log("Area:", area);
+    text(area, 100, 100);
 }
 
 function draw() {
