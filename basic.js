@@ -59,6 +59,7 @@ function setup() {
     groceries.push("butter")
     groceries.shift()
     groceries.splice(1, 1, "kaya")  // (start index, items to delete, value to add)
+    
 }
 
 function draw() {
