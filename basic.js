@@ -2,7 +2,7 @@ function setup() {
     new Canvas (800, 400);
     background(220);    // Background colour
     textSize(16);   // Text size
-    fill(0);    
+    fill(0);    // Text colour
 
     let a = 5;
     let b = 10;
