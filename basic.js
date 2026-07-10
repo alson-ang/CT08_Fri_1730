@@ -23,7 +23,7 @@ function setup() {
     text(area, 100, 100);
 
     for (let i = 0; i < 10; i++) {
-        
+        console.log(i)
     }
 }
 
