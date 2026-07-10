@@ -55,7 +55,8 @@ function setup() {
     }
 
     let groceries = ["apple", "bread", "milk"];
-    groceries.push("b")
+    groceries.push("orange")
+    groceries.push("butter")
 }
 
 function draw() {
