@@ -12,6 +12,8 @@ function setup() {
     const gravity = 9.8
     console.log("Sum of a and b:", sum);
     console.log("Product of a and b:", product);
+
+    text()
 }
 
 function draw() {
