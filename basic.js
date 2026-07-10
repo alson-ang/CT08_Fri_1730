@@ -47,7 +47,7 @@ function setup() {
         if (number % 2 == 1) {
             console.log(number)
         }
-        number--;
+        number--;   // number -= 1
     }
 }
 
