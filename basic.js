@@ -45,7 +45,9 @@ function setup() {
 
     while (number >= 1) {
         number--;
-        
+        if (number % 2 == 1) {
+            console.log(number)
+        }
     }
 }
 
