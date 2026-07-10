@@ -8,8 +8,8 @@ function setup() {
     let b = 10;
     let sum = a + b;
     let product = a * b;
-    const pi = 3.14159
-    const gravity = 9.8
+    const pi = 3.14159;
+    const gravity = 9.8;
     console.log("Sum of a and b:", sum);
     console.log("Product of a and b:", product);
 
