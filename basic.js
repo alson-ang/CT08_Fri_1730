@@ -43,8 +43,8 @@ function setup() {
 
     number = 19
 
-    while (number <= 1) {
-        
+    while (number >= 1) {
+
     }
 }
 
