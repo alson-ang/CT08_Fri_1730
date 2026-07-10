@@ -30,6 +30,8 @@ function setup() {
     }
 
     console.log("Sum:", total);
+
+    
 }
 
 function draw() {
