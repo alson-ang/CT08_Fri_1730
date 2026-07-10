@@ -41,7 +41,7 @@ function setup() {
         console.log("Noob");
     }
 
-    
+    number = 19
 }
 
 function draw() {
