@@ -14,6 +14,8 @@ function setup() {
     console.log("Product of a and b:", product);
 
     text(pi, 50, 50);   // (text, x, y)
+
+    let base = 
 }
 
 function draw() {
