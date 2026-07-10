@@ -40,6 +40,10 @@ function setup() {
     } else {
         console.log("Noob");
     }
+
+    if (score == 100) {
+        
+    }
 }
 
 function draw() {
