@@ -22,7 +22,9 @@ function setup() {
     console.log("Area:", area);
     text(area, 100, 100);
 
-    fo
+    for (let i = 0; i < 10; i++) {
+        
+    }
 }
 
 function draw() {
