@@ -51,8 +51,9 @@ function setup() {
     }
 
     while (true) {
-        
+        break
     }
+    
 }
 
 function draw() {
