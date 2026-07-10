@@ -33,11 +33,15 @@ function setup() {
 
     let score = 100
 
-    if (score > 90) {
+    if (score > 90) 
+    {
         console.log("Excellent")
-    } else if (score > 70) {
+    } else if (score > 70) 
+    {
         console.log("Good")
-    } else {
+    } 
+    else 
+    {
         console.log("Noob")
     }
 }
