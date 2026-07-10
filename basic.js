@@ -31,14 +31,14 @@ function setup() {
 
     console.log("Sum:", total);
 
-    let score = 100
+    let score = 100;
 
     if (score > 90) {
-        console.log("Excellent")
+        console.log("Excellent");
     } else if (score > 70) {
-        console.log("Good")
+        console.log("Good");
     } else {
-        console.log("Noob")
+        console.log("Noob");
     }
 }
 
