@@ -58,7 +58,7 @@ function setup() {
     groceries.push("orange")    // Add to end of array (like append)
     groceries.push("butter")
     groceries.shift()
-    groceries.splice(1, 1, "kaya")  // (start index, )
+    groceries.splice(1, 1, "kaya")  // (start index, items to delete, value to add)
 }
 
 function draw() {
