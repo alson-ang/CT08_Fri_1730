@@ -13,7 +13,7 @@ function setup() {
     console.log("Sum of a and b:", sum);
     console.log("Product of a and b:", product);
 
-    text(pi, 50, 50);
+    text(pi, 50, 50);   // 
 }
 
 function draw() {
