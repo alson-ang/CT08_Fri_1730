@@ -55,7 +55,7 @@ function setup() {
     }
 
     let groceries = ["apple", "bread", "milk"];
-    groceries.push("orange")    // Add
+    groceries.push("orange")    // Add to end of array (like append)
     groceries.push("butter")
 }
 
