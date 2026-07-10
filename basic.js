@@ -49,6 +49,10 @@ function setup() {
         }
         number--;   // number -= 1
     }
+
+    while (true) {
+        
+    }
 }
 
 function draw() {
