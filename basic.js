@@ -21,6 +21,8 @@ function setup() {
 
     console.log("Area:", area);
     text(area, 100, 100);
+
+    fo
 }
 
 function draw() {
