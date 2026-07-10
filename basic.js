@@ -9,7 +9,7 @@ function setup() {
     let sum = a + b;
     let product = a * b;
     const pi = 3.14159
-    const c 
+    const gravity = 9.8
     console.log("Sum of a and b:", sum);
     console.log("Product of a and b:", product);
 }
