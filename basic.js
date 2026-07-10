@@ -29,7 +29,7 @@ function setup() {
         total += i;
     }
 
-    console.log()
+    console.log("Sum:", total)
 }
 
 function draw() {
