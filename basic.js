@@ -44,10 +44,10 @@ function setup() {
     number = 19;
 
     while (number >= 1) {
-        number--;
         if (number % 2 == 1) {
             console.log(number)
         }
+        number--;
     }
 }
 
