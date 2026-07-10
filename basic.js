@@ -41,9 +41,7 @@ function setup() {
         console.log("Noob");
     }
 
-    if (score === 100) {
-
-    }
+    
 }
 
 function draw() {
