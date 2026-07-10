@@ -20,7 +20,7 @@ function setup() {
     let area = 0.5 * base * height;
 
     console.log("Area:", area)
-    
+    text(area, 100, 100)
 }
 
 function draw() {
