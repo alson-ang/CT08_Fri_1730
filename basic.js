@@ -41,8 +41,8 @@ function setup() {
         console.log("Noob");
     }
 
-    if (score == 100) {
-        
+    if (score == "100") {
+
     }
 }
 
