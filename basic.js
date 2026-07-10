@@ -54,7 +54,7 @@ function setup() {
         break
     }
 
-    let grocer
+    let groceries = ["apple"]
 }
 
 function draw() {
