@@ -55,7 +55,7 @@ function setup() {
     }
 
     let groceries = ["apple", "bread", "milk"];
-    groceries.push("orange")
+    groceries.push("orange")    // Add
     groceries.push("butter")
 }
 
