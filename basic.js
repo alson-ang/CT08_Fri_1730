@@ -42,6 +42,10 @@ function setup() {
     }
 
     number = 19
+
+    while (number <= 1) {
+        
+    }
 }
 
 function draw() {
