@@ -41,10 +41,10 @@ function setup() {
         console.log("Noob");
     }
 
-    number = 19
+    number = 19;
 
     while (number >= 1) {
-
+        number--;
     }
 }
 
