@@ -15,7 +15,10 @@ function setup() {
 
     text(pi, 50, 50);   // (text, x, y)
 
-    let base = 
+    let base = 10;
+    let height = 5;
+    let area = 0.5 * base * height;
+    
 }
 
 function draw() {
