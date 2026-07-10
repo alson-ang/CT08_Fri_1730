@@ -8,6 +8,7 @@ function setup() {
     let b = 10;
     let sum = a + b;
     let product = a * b;
+    const pi = 3.14
     console.log("Sum of a and b:", sum);
     console.log("Product of a and b:", product);
 }
