@@ -1,6 +1,7 @@
 //player box
-let player;
-let 
+let player; // Player sprite
+let box;
+let bg;
 
 // game variables
 
