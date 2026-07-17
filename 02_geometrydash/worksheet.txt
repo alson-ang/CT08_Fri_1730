@@ -26,7 +26,7 @@ What is the goal?
 - Make it to the end of the level
 
 What causes game over?
-- 
+- When you hit a spike / wall / 
 
 How is progress shown?
 
