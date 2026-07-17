@@ -39,4 +39,20 @@ For each phase:
 • The Gameplay mechanics (e.g. “Press space to jump”)
 • Any constraints that we need to add in. (e.g. How many times the player can jump)
 
-1. Game Setup
+1. Game Setup, Load Assets, Create Player
+ - Create canvas
+ - Create player variable and load image
+
+2. Build Level and Tile Maps
+ - Create and load tile map
+
+3. Auto-run and Jump
+
+
+4. Obstacles, Orbs and Reset
+
+
+5. Game Start Screen and Level Clear
+
+
+6. Visual and Sound Effects
