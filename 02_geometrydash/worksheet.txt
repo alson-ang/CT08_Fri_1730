@@ -7,6 +7,6 @@ For each one, write down:
 3. What happens when you win or lose?
 
 Minecraft
-1. Defeat the Ender Dragon
-2. WASD / Jump - Movement, Left Click - Mine, Right Click - Place / interact
-3. You beat the game and the credits roll, when you die your 
+1. Defeat the Ender Dragon.
+2. WASD / Jump - Movement, Left Click - Mine, Right Click - Place / Interact
+3. You beat the game and the credits roll, when you die the items in your inventory are dropped.
