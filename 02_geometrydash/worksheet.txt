@@ -30,3 +30,5 @@ What causes game over?
 
 How is progress shown?
 - Progress bar
+
+Problem Decomposition
