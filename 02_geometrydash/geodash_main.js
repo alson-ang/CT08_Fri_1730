@@ -35,7 +35,7 @@ function setup() {
     player.collider = "none";
 
     // Spawn point
-    startCoordinate = [50, height]
+    startCoordinate = [50, height - TILE_SIZE / 2]
 }
 
 function draw() {
