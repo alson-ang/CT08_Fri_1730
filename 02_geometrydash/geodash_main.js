@@ -1,6 +1,6 @@
 //player box
 let player; // Player sprite
-let box;    // PLayer sprite image
+let box;    // Player sprite image
 let bg;     // Background image
 
 // game variables
@@ -19,8 +19,8 @@ let bg;     // Background image
 
 
 function preload() {
-    box = loadImage("assets/cube.png")
-    
+    box = loadImage("assets/cube.png");
+
 }
 
 function setup() {
