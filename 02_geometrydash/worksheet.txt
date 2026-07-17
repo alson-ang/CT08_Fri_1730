@@ -20,7 +20,7 @@ What are the objects?
 - Floor / Platforms
 
 What are the player's actions?
-
+- Jump
 
 What is the goal?
 
