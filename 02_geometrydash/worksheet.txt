@@ -8,4 +8,4 @@ For each one, write down:
 
 Minecraft
 1. Defeat the Ender Dragon
-2. WASD 
+2. WASD / Jump - Movement
