@@ -36,7 +36,7 @@ function setup() {
 
     // Spawn point [x, y]
     startCoordinate = [50, height - TILE_SIZE / 2];
-    player.x = 
+    player.x = startCoordinate
 }
 
 function draw() {
