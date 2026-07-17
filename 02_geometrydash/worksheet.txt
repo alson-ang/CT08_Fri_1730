@@ -2,8 +2,9 @@ Essential Components of a Game
 
 Write down 3 games that you have played recently. 
 For each one, write down:
-• What is the goal of the game?
-• How do you interact / control it?
-• What happens when you win or lose?
+1. What is the goal of the game?
+2. How do you interact / control it?
+3. What happens when you win or lose?
 
 Minecraft
+1. 
