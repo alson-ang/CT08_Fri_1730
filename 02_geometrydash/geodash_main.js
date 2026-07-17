@@ -29,7 +29,7 @@ function setup() {
 
     // Player sprite
     player = new Sprite(50, 50, TILE_SIZE, TILE_SIZE);  // (x, y, width, height)
-    player.i
+    player.img = box;
 }
 
 function draw() {
