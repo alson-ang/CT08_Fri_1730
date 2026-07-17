@@ -25,7 +25,7 @@ function preload() {
 
 function setup() {
     new Canvas(700, 600); // (width, height)
-    AudioWorkletNode.gra
+    world.g
 }
 
 function draw() {
