@@ -15,9 +15,9 @@ Minecraft
 Deconstructing Geometry Dash
 
 What are the objects?
-- Box (Main Character)
-Spikes
-Floor / Platforms
+- Square (Main Character)
+- Spikes
+- Floor / Platforms
 
 What are the player's actions?
 
