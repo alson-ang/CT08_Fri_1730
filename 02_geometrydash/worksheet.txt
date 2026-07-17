@@ -23,7 +23,7 @@ What are the player's actions?
 - Jump
 
 What is the goal?
-
+- 
 
 What causes game over?
 
