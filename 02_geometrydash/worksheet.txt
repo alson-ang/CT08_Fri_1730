@@ -41,7 +41,8 @@ For each phase:
 
 1. Game Setup, Load Assets, Create Player
 - Create Canvas
-- Create 
+- Create player variables
+- 
 
 2. Build Level and Tile Maps
 
