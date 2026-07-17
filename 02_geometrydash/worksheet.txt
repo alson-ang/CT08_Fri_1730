@@ -40,11 +40,10 @@ For each phase:
 • Any constraints that we need to add in. (e.g. How many times the player can jump)
 
 1. Game Setup, Load Assets, Create Player
- - Create canvas
- - Create player variable and load image
+
 
 2. Build Level and Tile Maps
- - Create and load tile map
+
 
 3. Auto-run and Jump
 
@@ -56,3 +55,4 @@ For each phase:
 
 
 6. Visual and Sound Effects
+
