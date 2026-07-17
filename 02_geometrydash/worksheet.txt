@@ -21,3 +21,5 @@ What are the player's actions?
 
 What is the goal?
 
+
+What causes game over?
