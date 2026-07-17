@@ -11,7 +11,7 @@ let tileMap1;
 let ground;     // Ground sprite group
 let spikes;     // Spike sprite group
 let orb;        // Orb sprite group
-let finishLine
+let finishLine; // Finish line sprite group
 
 // image sprites
 
