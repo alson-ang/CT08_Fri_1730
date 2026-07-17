@@ -40,23 +40,27 @@ For each phase:
 • Any constraints that we need to add in. (e.g. How many times the player can jump)
 
 1. Game Setup, Load Assets, Create Player
-- Create Canvas
-- Create player variables
-- Load player image
+ - Create canvas
+ - Create player variable and load image
 
 2. Build Level and Tile Maps
-- 
+ - Create and load tile map
 
 3. Auto-run and Jump
-
+ - Player is always moving right
+ - Player jumps on click / spacebar
 
 4. Obstacles, Orbs and Reset
-
+ - Adding more walls, spikes and orbs to the map
+ - When player collides with wall or spike, restart the game
 
 5. Game Start Screen and Level Clear
-
+ - Start and end menu
+ - Add a finish line to end the level
 
 6. Visual and Sound Effects
-
-
-7. Create your own Stage
+ - Background music
+ - Death sound effect
+ - Movement particle effects
+ - Death particle effects
+ - Spawn particle effect
