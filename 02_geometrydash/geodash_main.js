@@ -33,6 +33,8 @@ function setup() {
     player.friction = 0;
     player.bounciness = 0;
     player.collider = "none";
+
+    start
 }
 
 function draw() {
