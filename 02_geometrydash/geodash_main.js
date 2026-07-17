@@ -35,7 +35,7 @@ function setup() {
     player.collider = "none";
 
     // Spawn point
-    startCoordinate = [50, ]
+    startCoordinate = [50, height]
 }
 
 function draw() {
