@@ -25,6 +25,7 @@ let finishLine; // Finish line sprite group
 function preload() {
     box = loadImage("assets/cube.png");
     bg = loadImage("assets/geobg.png");
+    tileMap1
 }
 
 function setup() {
