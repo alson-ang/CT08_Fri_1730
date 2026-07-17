@@ -28,7 +28,7 @@ function setup() {
     world.gravity.y = 32;
 
     // Player sprite
-    player = new Sprite();  // (x, y, width, height)
+    player = new Sprite(50, 50, 50, 50);  // (x, y, width, height)
 }
 
 function draw() {
