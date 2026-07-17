@@ -11,3 +11,7 @@ Minecraft
 2. WASD / Jump - Movement, Left Click - Mine, Right Click - Place / Interact.
 3. You beat the game and the credits roll, when you die the items in your inventory are dropped.
 
+Deconstructing Geometry Dash
+
+What are the
+objects? 
