@@ -10,7 +10,8 @@ const TILE_SIZE = 50;
 let tileMap1;
 let ground;     // Ground sprite group
 let spikes;     // Spike sprite group
-let orb
+let orb;        // Orb sprite group
+let finishLine
 
 // image sprites
 
