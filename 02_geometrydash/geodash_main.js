@@ -8,7 +8,7 @@ const TILE_SIZE = 50;
 
 // world building groups
 let tileMap1;
-
+let ground;     // Ground sprite group
 let spikes;     // Spike sprite
 
 // image sprites
