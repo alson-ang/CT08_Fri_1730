@@ -13,5 +13,4 @@ Minecraft
 
 Deconstructing Geometry Dash
 
-What are the
-objects? 
+What are the objects? 
