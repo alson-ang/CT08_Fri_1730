@@ -34,7 +34,8 @@ function setup() {
     player.bounciness = 0;
     player.collider = "none";
 
-    start
+    // Spawn point
+    startCoordinate = []
 }
 
 function draw() {
