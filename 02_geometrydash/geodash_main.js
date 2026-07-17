@@ -24,7 +24,8 @@ function preload() {
 }
 
 function setup() {
-    new Canvas(700, 600);
+    new Canvas(700, 600); // (width, height)
+    background(250);
 }
 
 function draw() {
