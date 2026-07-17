@@ -29,4 +29,4 @@ What causes game over?
 - When you hit a spike / wall
 
 How is progress shown?
-
+- Progress bar
