@@ -45,7 +45,7 @@ For each phase:
 - Load player image
 
 2. Build Level and Tile Maps
-
+- 
 
 3. Auto-run and Jump
 
