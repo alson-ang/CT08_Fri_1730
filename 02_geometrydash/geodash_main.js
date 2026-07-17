@@ -4,7 +4,7 @@ let box;    // Player sprite image
 let bg;     // Background image
 
 // game variables
-const LIKE_THIS
+const TILE_
 
 // world building groups
 
