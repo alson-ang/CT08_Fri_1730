@@ -34,7 +34,7 @@ function setup() {
     player.bounciness = 0;
     player.collider = "none";
 
-    // Spawn point
+    // Spawn point [x, y]
     startCoordinate = [50, height - TILE_SIZE / 2];
 }
 
