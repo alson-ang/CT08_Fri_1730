@@ -56,3 +56,5 @@ For each phase:
 
 6. Visual and Sound Effects
 
+
+7. Create your own Stage
