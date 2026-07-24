@@ -50,7 +50,7 @@ function setup() {
     ground.w = TILE_SIZE;   // Width
     ground.h = TILE_SIZE;   // Height
     ground.color = "black"; // Tile colour
-    ground.stroke = ""
+    ground.stroke = "white";    // Outline colour
 }
 
 function draw() {
