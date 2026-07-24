@@ -10,7 +10,7 @@ const TILE_SIZE = 50;
 let tileMap1;
 let ground;     // Ground sprite group
 let spikes;     // Spike sprite group
-let orb;        // Orb sprite group
+let orbs;        // Orb sprite group
 let finishLine; // Finish line sprite group
 
 // image sprites
@@ -52,6 +52,10 @@ function setup() {
     ground.color = "black"; // Tile colour
     ground.stroke = "white";    // Outline colour
     ground.collider = "static"; // Cannot move
+
+    // Spikes sprite group
+
+    // Orbs sprite group
 
     // Create map using tile map and sprite groups
     new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);    // (map, x, y, width, height)
