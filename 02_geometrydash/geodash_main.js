@@ -54,6 +54,9 @@ function setup() {
     ground.collider = "static"; // Cannot move
 
     // Spikes sprite group
+    spikes = new Group();
+    spikes.tile = "s";
+    spikes.img = spikes;
 
     // Orbs sprite group
 
