@@ -46,6 +46,7 @@ function setup() {
 
     // Ground sprite group
     ground = new Group();
+    gr
 }
 
 function draw() {
