@@ -44,7 +44,8 @@ function setup() {
     player.x = startCoordinate[0];
     player.y = startCoordinate[1];
 
-    // 
+    // Ground sprite group
+    
 }
 
 function draw() {
