@@ -53,7 +53,7 @@ function setup() {
     ground.stroke = "white";    // Outline colour
 
     // Create map using tile map and sprite groups
-    new Tiles(tileMap1)
+    new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);    // 
 }
 
 function draw() {
