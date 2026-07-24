@@ -88,8 +88,12 @@ function draw() {
     image(bg, 0, 0, 800, 600);  // (image, x, y, width, height)
 
     // Camera movement
-    if (player.x >= wid)
-    camera.x = player.x;
+    if (player.x >= width / 2) {
+        camera.x = player.x;
+    } else {
+        
+    }
+    
     
     // Player movement
     player.vel.x = 5;
