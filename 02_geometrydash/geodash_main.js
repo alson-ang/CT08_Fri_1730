@@ -76,7 +76,7 @@ function setup() {
     finishLine.color = "#f59402";
     finishLine.stroke = "black";
     finishLine.collider = "static";
-    finishLine.visible = false; // Show or hide
+    finishLine.visible = true; // Show or hide
 
     // Create map using tile map and sprite groups
     new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);    // (map, x, y, width, height)
