@@ -40,7 +40,7 @@ function setup() {
     player.collider = "none";
 
     // Spawn point [x, y]
-    startCoordinate = [TILE_SIZE, height - TILE_SIZE / 2];
+    startCoordinate = [TILE_SIZE, height - TILE_SIZE];
     player.x = startCoordinate[0];
     player.y = startCoordinate[1];
 
