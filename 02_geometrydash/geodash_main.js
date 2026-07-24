@@ -26,7 +26,7 @@ function preload() {
     box = loadImage("assets/cube.png");
     bg = loadImage("assets/geobg.png");
     spike = loadImage("assets/spike.png");
-    
+
     tileMap1 = loadStrings("stages/tiles1.txt");
 }
 
@@ -87,14 +87,3 @@ function draw() {
     clear();    // Clear the previous frame before drawing
     image(bg, 0, 0, 800, 600);  // (image, x, y, width, height)
 }
-
-
-
-
-
-
-
-
-
-
-
