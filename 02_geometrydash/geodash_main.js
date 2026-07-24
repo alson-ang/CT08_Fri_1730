@@ -49,7 +49,7 @@ function setup() {
     ground.tile = "g";  // "g" represents a ground tile
     ground.w = TILE_SIZE;   // Width
     ground.h = TILE_SIZE;   // Height
-    ground.color = "bl"
+    ground.color = "black";
 }
 
 function draw() {
