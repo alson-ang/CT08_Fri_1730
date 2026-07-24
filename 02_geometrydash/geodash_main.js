@@ -61,6 +61,13 @@ function setup() {
     spikes.collider = "static";
 
     // Orbs sprite group
+    orbs = new Group();
+    ground.tile = "g";  // "g" represents a ground tile
+    ground.w = TILE_SIZE;   // Width
+    ground.h = TILE_SIZE;   // Height
+    ground.color = "black"; // Tile colour
+    ground.stroke = "white";    // Outline colour
+    ground.collider = "static"; // Cannot move
 
     // Finish line sprite group
 
