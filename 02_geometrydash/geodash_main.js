@@ -89,4 +89,6 @@ function draw() {
 
     // Player movement
     player.vel.x = 5;
+
+    
 }
