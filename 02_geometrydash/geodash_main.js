@@ -70,7 +70,7 @@ function setup() {
 
     // Finish line sprite group
     finishLine = new Group();
-    finishLine.tile = "o";
+    finishLine.tile = "f";
     finishLine.d = 24;    // Diameter
     finishLine.color = "#f59402";
     finishLine.stroke = "white";
