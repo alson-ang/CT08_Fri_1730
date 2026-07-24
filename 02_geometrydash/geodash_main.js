@@ -71,9 +71,10 @@ function setup() {
     // Finish line sprite group
     finishLine = new Group();
     finishLine.tile = "f";
-    finishLine.d = 24;    // Diameter
+    finishLine.w = TILE_SIZE;
+    finishLine.h = TILE_SIZE;
     finishLine.color = "#f59402";
-    finishLine.stroke = "white";
+    finishLine.stroke = "black";
     finishLine.collider = "static"; // Cannot move
 
     // Create map using tile map and sprite groups
