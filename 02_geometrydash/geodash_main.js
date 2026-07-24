@@ -63,10 +63,9 @@ function setup() {
     // Orbs sprite group
     orbs = new Group();
     orbs.tile = "o";
-    orbs.w = TILE_SIZE;   // Width
-    orbs.h = TILE_SIZE;   // Height
-    orbs.color = "black"; // Tile colour
-    orbs.stroke = "white";    // Outline colour
+    orbs.d = 24;    // Diameter
+    orbs.color = "black";
+    orbs.stroke = "white";
     orbs.collider = "static"; // Cannot move
 
     // Finish line sprite group
