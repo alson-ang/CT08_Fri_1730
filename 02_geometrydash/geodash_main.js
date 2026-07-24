@@ -95,7 +95,6 @@ function draw() {
         camera.x = width / 2;
     }
     
-    
     // Player movement
     player.vel.x = 5;
 
