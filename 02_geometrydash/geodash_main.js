@@ -70,11 +70,11 @@ function setup() {
 
     // Finish line sprite group
     finishLine = new Group();
-    orbs.tile = "o";
-    orbs.d = 24;    // Diameter
-    orbs.color = "#f5d402";
-    orbs.stroke = "white";
-    orbs.collider = "static"; // Cannot move
+    finishLine.tile = "o";
+    finishLine.d = 24;    // Diameter
+    finishLine.color = "#f59402";
+    finishLine.stroke = "white";
+    finishLine.collider = "static"; // Cannot move
 
     // Create map using tile map and sprite groups
     new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);    // (map, x, y, width, height)
