@@ -88,7 +88,7 @@ function draw() {
     image(bg, 0, 0, 800, 600);  // (image, x, y, width, height)
 
     // Camera movement
-    camera.x += 5;
+    camera.vel.x = 5;
     
     // Player movement
     player.vel.x = 5;
