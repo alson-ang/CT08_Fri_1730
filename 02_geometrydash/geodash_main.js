@@ -51,7 +51,7 @@ function setup() {
     ground.h = TILE_SIZE;   // Height
     ground.color = "black"; // Tile colour
     ground.stroke = "white";    // Outline colour
-    ground.collider = "kinematic"; // Cannot move
+    ground.collider = "static"; // Cannot move
 
     // Create map using tile map and sprite groups
     new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);    // (map, x, y, width, height)
