@@ -72,7 +72,7 @@ function setup() {
     finishLine = new Group();
     finishLine.tile = "f";
     finishLine.w = TILE_SIZE;
-    finishLine.h = height;
+    finishLine.h = height * 2;
     finishLine.color = "#f59402";
     finishLine.stroke = "black";
     finishLine.collider = "static"; // Cannot move
