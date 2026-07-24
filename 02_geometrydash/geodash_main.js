@@ -88,6 +88,7 @@ function draw() {
     image(bg, 0, 0, 800, 600);  // (image, x, y, width, height)
 
     // Camera movement
+    if (player.x )
     camera.x = player.x;
     
     // Player movement
