@@ -52,8 +52,8 @@ function setup() {
     ground.color = "black"; // Tile colour
     ground.stroke = "white";    // Outline colour
 
-    // Create map using tile map and 
-
+    // Create map using tile map and sprite groups
+    new Tile
 }
 
 function draw() {
