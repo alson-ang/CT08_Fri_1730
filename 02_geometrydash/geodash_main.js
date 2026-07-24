@@ -58,7 +58,7 @@ function setup() {
     spikes = new Group();
     spikes.tile = "s";
     spikes.img = spike;
-    
+    spikes.collider = "static";
 
     // Orbs sprite group
 
