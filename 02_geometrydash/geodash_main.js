@@ -75,7 +75,8 @@ function setup() {
     finishLine.h = height * 2;
     finishLine.color = "#f59402";
     finishLine.stroke = "black";
-    finishLine.collider = "static"; // Cannot move
+    finishLine.collider = "static";
+    finishLine.
 
     // Create map using tile map and sprite groups
     new Tiles(tileMap1, 0, 0, TILE_SIZE, TILE_SIZE);    // (map, x, y, width, height)
