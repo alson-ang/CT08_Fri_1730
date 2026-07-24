@@ -33,7 +33,7 @@ function setup() {
     world.gravity.y = 32;
 
     // Player sprite
-    player = new Sprite(50, 50, TILE_SIZE, TILE_SIZE);  // (x, y, width, height)
+    player = new Sprite(TILE_SIZE, TILE_SIZE, TILE_SIZE, TILE_SIZE);  // (x, y, width, height)
     player.img = box;
     player.friction = 0;
     player.bounciness = 0;
