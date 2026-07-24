@@ -14,7 +14,7 @@ let orbs;        // Orb sprite group
 let finishLine; // Finish line sprite group
 
 // image sprites
-
+let spike;
 
 // menu
 
