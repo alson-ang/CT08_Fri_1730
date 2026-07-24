@@ -5,7 +5,6 @@ let bg;     // Background image
 
 // game variables
 const TILE_SIZE = 50;
-let playerJump;
 
 // world building groups
 let tileMap1;
@@ -34,8 +33,6 @@ function preload() {
 function setup() {
     new Canvas(700, 600);   // (width, height)
     world.gravity.y = 32;
-
-    playerJump = 0;
 
     // Player sprite
     player = new Sprite(TILE_SIZE, TILE_SIZE, TILE_SIZE, TILE_SIZE);  // (x, y, width, height)
