@@ -9,7 +9,9 @@ let handPose;   // ML5 Model
 
 function preload() {
     // Model settings
-    
+    let options = {
+        
+    }
 }
 
 function setup() {}
