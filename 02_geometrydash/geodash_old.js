@@ -211,6 +211,7 @@ function draw() {
           endImg.remove();
         }
 
+        
         startGame = false;
         gameOver = false;
         resetGame();
