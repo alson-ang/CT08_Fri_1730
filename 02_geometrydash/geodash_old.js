@@ -216,7 +216,7 @@ function draw() {
         gameOver = false;
         resetGame();
 
-        console.log("Loading level...");
+        console.log("Loading level...");    // Comments to debug
         level += 1;
         loadLevel();
       }
