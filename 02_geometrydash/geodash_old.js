@@ -211,11 +211,12 @@ function draw() {
           endImg.remove();
         }
 
-        console.log("Loading level...")
+        
         startGame = false;
         gameOver = false;
         resetGame();
 
+        console.log("Loading level...");
         level += 1;
         loadLevel();
       }
