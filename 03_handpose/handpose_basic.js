@@ -8,6 +8,7 @@ let handPose;   // ML5 Model
 //=========================================
 
 function preload() {
+    // Model settings
     
 }
 
