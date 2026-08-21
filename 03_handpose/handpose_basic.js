@@ -14,7 +14,7 @@ function preload() {
         runtime: "tfjs",
         modelType: "full",
         detectorModeUrl: undefined,
-        
+        land
     }
 }
 
