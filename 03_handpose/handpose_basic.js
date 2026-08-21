@@ -2,7 +2,8 @@
 // Variables
 //=========================================
 let handPose;   // ML5 Model
-let videoW =
+let videoW = 640;
+let videoH = 480;
 
 //=========================================
 // Code
