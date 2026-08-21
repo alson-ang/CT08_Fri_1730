@@ -2,6 +2,7 @@
 // Variables
 //=========================================
 let handPose;   // ML5 Model
+le
 
 //=========================================
 // Code
@@ -18,7 +19,7 @@ function preload() {
     }
 
     // Load the model
-    handPose = ml5.handPose(options)
+    handPose = ml5.handPose(options);
 }
 
 function setup() {}
