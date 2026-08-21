@@ -18,7 +18,7 @@ function preload() {
     }
 
     // Load the model
-    handPose = ml5.
+    handPose = ml5.handPose(options)
 }
 
 function setup() {}
