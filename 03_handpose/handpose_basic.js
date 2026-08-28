@@ -55,7 +55,7 @@ function draw() {
         console.log(hands);
     }
 
-    circle(200, 200, 10);
+    circle(200, 200, 10);   // (x pos, y pos, diameter)
 }
 
 //=========================================
