@@ -69,7 +69,8 @@ function draw() {
             let keypoint = currentHand.keypoints[8];
             // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
 
-            // 
+            // Make sprite follow finger tip
+            fingerTip.x = 
         }
     }
 
