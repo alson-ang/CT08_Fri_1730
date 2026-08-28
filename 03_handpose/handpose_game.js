@@ -68,6 +68,8 @@ function draw() {
             let currentHand = hands[i];
             let keypoint = currentHand.keypoints[8];
             // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
+
+            // 
         }
     }
 
