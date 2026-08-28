@@ -49,6 +49,8 @@ function setup() {
 function draw() {
     // Draw webcam video
     image(video, 0, 0, videoW, videoH);
+    
+    console.log(hands);
 }
 
 //=========================================
