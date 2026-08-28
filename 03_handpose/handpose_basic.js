@@ -46,7 +46,8 @@ function setup() {
 }
 
 function draw() {
-    // Draw web
+    // Draw webcam video
+    Image(video, 0, 0)
 }
 
 //=========================================
