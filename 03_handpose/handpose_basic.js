@@ -50,3 +50,7 @@ function draw() {}
 //=========================================
 // Function Created
 //=========================================
+
+function gotHands(results) {
+    
+}
