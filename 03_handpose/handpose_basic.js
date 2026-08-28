@@ -25,6 +25,9 @@ function preload() {
 
 function setup() {
     createCanvas(videoW, videoH);
+
+    // Setup webcam video
+    
 }
 
 function draw() {}
