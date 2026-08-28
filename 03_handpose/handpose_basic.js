@@ -23,7 +23,9 @@ function preload() {
     handPose = ml5.handPose(options);
 }
 
-function setup() {}
+function setup() {
+    createCanvas()
+}
 
 function draw() {}
 
