@@ -73,6 +73,7 @@ function draw() {
         fingerTip.visible = true;
     }
     else {
+        // Hide sprite if there are no hands
         fingerTip.visible = false;
     }
 
