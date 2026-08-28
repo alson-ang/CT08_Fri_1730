@@ -54,6 +54,8 @@ function draw() {
     if (hands.length > 0) {
         console.log(hands);
     }
+
+    circle()
 }
 
 //=========================================
