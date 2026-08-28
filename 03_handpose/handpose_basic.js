@@ -38,6 +38,8 @@ function setup() {
         audio: false,
         flipped: true
     };
+
+    vide
 }
 
 function draw() {}
