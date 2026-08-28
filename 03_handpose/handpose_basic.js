@@ -42,7 +42,7 @@ function setup() {
     video = createCapture(constraints);
     video.size(videoW, videoH);
     video.hide();
-    // Send video to the model to 
+    // Send video to the model to start detecting hands
     handPose.detectStart(video, gotHands);
 }
 
