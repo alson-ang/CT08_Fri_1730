@@ -73,7 +73,7 @@ function draw() {
         fingerTip.visible = true;
     }
     else {
-        
+        fingerTip.visible = false;
     }
 
 }
