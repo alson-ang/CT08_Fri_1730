@@ -47,6 +47,9 @@ function setup() {
     video.hide();
     // Send video to the model to start detecting hands
     handPose.detectStart(video, gotHands);
+
+    // Game sprite
+    fingerTip = new Sprite
 }
 
 function draw() {
