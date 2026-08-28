@@ -28,7 +28,9 @@ function setup() {
 
     // Setup webcam video
     let constraints = {
-        mandatory
+        mandatory: {
+            minWidth: videoW
+        }
     }
 }
 
