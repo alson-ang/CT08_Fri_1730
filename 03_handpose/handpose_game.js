@@ -6,7 +6,7 @@ let videoW = 640;
 let videoH = 480;
 let hands = [];
 
-let 
+let fingerTip;
 
 //=========================================
 // Code
