@@ -69,7 +69,8 @@ function draw() {
 
         // Make sprite follow finger tip
         fingerTip.x = keypoint.x;
-        fingerTip.y = keypoint.y; 
+        fingerTip.y = keypoint.y;
+        
     }
 
 }
