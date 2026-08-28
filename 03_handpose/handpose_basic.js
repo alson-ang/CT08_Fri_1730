@@ -55,6 +55,7 @@ function draw() {
     if (hands.length > 0) {
         console.log(hands);
 
+        ha
         let keypoint = hands
         circle(200, 200, 10);   // (x pos, y pos, diameter)
     }
