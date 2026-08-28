@@ -52,6 +52,6 @@ function draw() {}
 //=========================================
 
 function gotHands(results) {
-    // Model detects
+    // Model detects hand and saves 
     hands = results;
 }
