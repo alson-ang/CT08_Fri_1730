@@ -51,6 +51,7 @@ function setup() {
     // Game sprite
     fingerTip = new Sprite();
     fingerTip.diameter = 60;
+    
 }
 
 function draw() {
