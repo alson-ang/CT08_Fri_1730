@@ -27,7 +27,9 @@ function setup() {
     createCanvas(videoW, videoH);
 
     // Setup webcam video
-    let
+    let constraints = {
+        
+    }
 }
 
 function draw() {}
