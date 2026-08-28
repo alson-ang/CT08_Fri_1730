@@ -58,7 +58,7 @@ function draw() {
         // Loop through all detected hands
         for (let i = 0; i < hands.length; i++) {
             let hand = hands[i];
-            let keypoint = hand.keypoints[]
+            let keypoint = hand.keypoints[4];
             circle(200, 200, 10);   // (x pos, y pos, diameter)
         }
     }
