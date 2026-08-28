@@ -51,6 +51,7 @@ function draw() {
     // Draw webcam video
     image(video, 0, 0, videoW, videoH);
 
+    // Check if model detects a hand
     if (hands.length > 0) {
         console.log(hands);
     }
