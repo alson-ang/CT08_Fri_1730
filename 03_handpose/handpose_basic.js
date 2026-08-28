@@ -32,7 +32,7 @@ function setup() {
             minWidth: videoW,
             minHeight: videoH
         },
-        
+        optional: []
     }
 }
 
