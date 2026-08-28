@@ -45,7 +45,9 @@ function setup() {
     handPose.detectStart(video, gotHands);
 }
 
-function draw() {}
+function draw() {
+    // Draw web
+}
 
 //=========================================
 // Function Created
