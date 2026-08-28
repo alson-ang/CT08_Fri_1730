@@ -52,7 +52,8 @@ function setup() {
 
     // Game sprite
     fingerTip = new Sprite();
-    fingerTip.diameter = 60;
+    fingerTip.width = 60;
+    fingerTip.height = 60;
     fingerTip.collider = "kinematic";
     fingerTip.color = "rgba(255, 255, 0, 0.1)";
 
