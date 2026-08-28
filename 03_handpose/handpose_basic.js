@@ -54,9 +54,11 @@ function draw() {
     // Check if model detects a hand
     if (hands.length > 0) {
         console.log(hands);
+
+        
+        circle(200, 200, 10);   // (x pos, y pos, diameter)
     }
 
-    circle(200, 200, 10);   // (x pos, y pos, diameter)
 }
 
 //=========================================
