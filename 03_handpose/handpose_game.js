@@ -58,7 +58,7 @@ function setup() {
 
     balloon = new Sprite();
     balloon.diameter = 60;
-    balloon.collider = "kinematic";
+    balloon.collider = "dynamic";
     balloon.color = "rgba(255, 255, 0, 0.1)";
 }
 
