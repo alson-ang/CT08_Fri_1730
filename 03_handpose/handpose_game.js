@@ -29,6 +29,7 @@ function preload() {
 
 function setup() {
     createCanvas(videoW, videoH);
+    world.gravity.y = 5;
 
     // Setup webcam video
     let constraints = {
@@ -55,7 +56,7 @@ function setup() {
     fingerTip.collider = "kinematic";
     fingerTip.color = "rgba(255, 255, 0, 0.1)";
 
-    
+
 }
 
 function draw() {
