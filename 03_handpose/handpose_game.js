@@ -63,16 +63,13 @@ function draw() {
     if (hands.length > 0) {
         console.log(hands);
 
-        // Loop through all detected hands
-        for (let i = 0; i < hands.length; i++) {
-            let currentHand = hands[i];
-            let keypoint = currentHand.keypoints[8];
-            // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
+        let currentHand = hands[0];
+        let keypoint = currentHand.keypoints[8];
+        // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
 
-            // Make sprite follow finger tip
-            fingerTip.x = keypoint.x;
-            fingerTip.y = keypoint.y;
-        }
+        // Make sprite follow finger tip
+        fingerTip.x = keypoint.x;
+        fingerTip.y = keypoint.y; 
     }
 
 }
