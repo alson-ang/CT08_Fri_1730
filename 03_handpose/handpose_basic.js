@@ -55,7 +55,7 @@ function draw() {
         console.log(hands);
     }
 
-    circle()
+    circle(200, 200, 10);
 }
 
 //=========================================
