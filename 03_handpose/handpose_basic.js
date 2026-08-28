@@ -34,7 +34,9 @@ function setup() {
                 minHeight: videoH
             },
             optional: [{ minFrameRate: 60 }],
-        }
+        },
+        audio: false,
+        
     }
 }
 
