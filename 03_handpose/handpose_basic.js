@@ -39,7 +39,8 @@ function setup() {
         flipped: true
     };
 
-    vide
+    video = createCapture(constraints);
+    
 }
 
 function draw() {}
