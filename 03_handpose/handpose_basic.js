@@ -28,7 +28,7 @@ function setup() {
 
     // Setup webcam video
     let constraints = {
-        
+        mandatory
     }
 }
 
