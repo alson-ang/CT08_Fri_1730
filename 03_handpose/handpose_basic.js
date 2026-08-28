@@ -50,7 +50,9 @@ function draw() {
     // Draw webcam video
     image(video, 0, 0, videoW, videoH);
 
-    if (hands.length > )
+    if (hands.length > 0) {
+        
+    }
     console.log(hands);
 }
 
