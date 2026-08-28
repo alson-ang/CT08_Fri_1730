@@ -49,7 +49,8 @@ function setup() {
     handPose.detectStart(video, gotHands);
 
     // Game sprite
-    fingerTip = new Sprite
+    fingerTip = new Sprite();
+    
 }
 
 function draw() {
