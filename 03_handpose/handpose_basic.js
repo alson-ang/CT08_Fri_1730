@@ -47,7 +47,7 @@ function setup() {
 
 function draw() {
     // Draw webcam video
-    Image(video, 0, 0)
+    image(video, 0, 0, videoW, videoH);
 }
 
 //=========================================
