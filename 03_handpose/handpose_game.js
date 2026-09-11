@@ -80,6 +80,12 @@ function setup() {
     rightWall.y = height / 2;
     rightWall.width = 5;
     rightWall.height = height;
+
+    topWall = new Sprite();
+    rightWall.x = width;
+    rightWall.y = height / 2;
+    rightWall.width = 5;
+    rightWall.height = height;
 }
 
 function draw() {
