@@ -109,6 +109,7 @@ function draw() {
 
     // Show start menu
     if (gameStart === false) {
+        
         // text(string, x, y)
     }
 
