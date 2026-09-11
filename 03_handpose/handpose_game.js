@@ -6,8 +6,10 @@ let videoW = 640;
 let videoH = 480;
 let hands = [];
 
+// Game sprites
 let fingerTip;
 let balloon;
+
 
 //=========================================
 // Code
