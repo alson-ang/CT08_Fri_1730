@@ -70,7 +70,9 @@ function setup() {
     balloon.drag = 0.3;
 
     leftWall = new Sprite();
-    leftWall.x = ;
+    leftWall.x = 1;
+    leftWall.y = 1;
+    leftWall.length = 1;
 }
 
 function draw() {
