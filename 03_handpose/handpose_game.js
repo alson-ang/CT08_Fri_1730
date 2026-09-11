@@ -52,7 +52,7 @@ function setup() {
     // Send video to the model to start detecting hands
     handPose.detectStart(video, gotHands);
 
-    // Game sprite
+    // Game sprites
     fingerTip = new Sprite();
     fingerTip.width = 60;
     fingerTip.height = 60;
@@ -68,6 +68,8 @@ function setup() {
     balloon.bounciness = 1;
     balloon.mass = 1;
     balloon.drag = 0.3;
+
+    
 }
 
 function draw() {
