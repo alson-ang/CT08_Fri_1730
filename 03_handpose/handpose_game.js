@@ -64,7 +64,7 @@ function setup() {
     balloon.collider = "dynamic";
     balloon.color = "rgb(255, 0, 0)";
     balloon.x = width / 2;
-    balloon.y = height / 10;
+    balloon.y = height * 0.1;
     balloon.bounciness = 1;
     balloon.mass = 1;
     balloon.drag = 0.3;
