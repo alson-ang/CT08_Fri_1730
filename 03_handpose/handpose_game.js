@@ -30,7 +30,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(videoW, videoH);
+    new Canvas(videoW, videoH);
     world.gravity.y = 5;
 
     // Setup webcam video
