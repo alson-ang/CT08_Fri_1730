@@ -81,21 +81,21 @@ function setup() {
     rightWall.y = height / 2;
     rightWall.width = 5;
     rightWall.height = height;
-    leftWall.collider = "static";
+    rightWall.collider = "static";
 
     topWall = new Sprite();
     topWall.x = width / 2;
     topWall.y = 0;
     topWall.width = width;
     topWall.height = 5;
-    leftWall.collider = "static";
+    topWall.collider = "static";
 
     botWall = new Sprite();
     botWall.x = width / 2;
     botWall.y = height;
     botWall.width = width;
     botWall.height = 5;
-    leftWall.collider = "static";
+    botWall.collider = "static";
 }
 
 function draw() {
