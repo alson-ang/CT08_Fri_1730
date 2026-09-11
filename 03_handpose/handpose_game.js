@@ -158,7 +158,7 @@ function keyPressed() {
         gameStart = true;
 
         // Start sprite colliders
-        fingerTip.collider = "kinematic"; // No physics
+        fingerTip.collider = "kinematic"; // No physics but
         balloon.collider = "dynamic";
     }
 }
