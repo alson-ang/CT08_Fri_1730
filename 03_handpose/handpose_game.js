@@ -79,7 +79,7 @@ function setup() {
     rightWall.x = 0;
     rightWall.y = height / 2;
     rightWall.width = 5;
-    leftWall.height = height;
+    rightWall.height = height;
 }
 
 function draw() {
