@@ -13,7 +13,7 @@ let leftWall, rightWall, topWall, botWall;
 
 // Game variable
 let gameStart = false;
-
+let gameOver = false;
 
 //=========================================
 // Code
