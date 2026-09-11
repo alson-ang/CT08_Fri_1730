@@ -113,6 +113,7 @@ function draw() {
         textAlign(CENTER, CENTER); // horizontal & vertical alignment
         fill("rgb(0, 255, 20)")
         text("Bounce the Ball", width / 2, height / 2);// text(string, x, y)
+        
     }
 
     // Check if model detects a hand
