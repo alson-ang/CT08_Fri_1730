@@ -158,6 +158,7 @@ function keyPressed() {
         gameStart = true;
 
         // Start sprite colliders
-        fingerTip.
+        fingerTip.collider = "kinematic";
+        balloon
     }
 }
