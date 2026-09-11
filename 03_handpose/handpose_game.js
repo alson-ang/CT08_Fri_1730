@@ -163,5 +163,8 @@ function keyPressed() {
         // Start sprite colliders
         fingerTip.collider = "kinematic"; // No physics but can move through code
         balloon.collider = "dynamic";
+        balloon.bounciness = 1;
+        balloon.mass = 5;
+        balloon.drag = 0.1;
     }
 }
