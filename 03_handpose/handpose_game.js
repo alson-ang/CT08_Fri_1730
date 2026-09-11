@@ -122,10 +122,7 @@ function draw() {
         text("Use your Index Finger to Bounce the Ball", width * 0.5, height * 0.6);
         text("Press Space to start", width * 0.5, height * 0.7);
     } else {
-        
-    }
-
-    // Check if model detects a hand
+        // Check if model detects a hand
     if (hands.length > 0) {
         // console.log(hands);
 
@@ -141,6 +138,7 @@ function draw() {
     } else {
         // Hide sprite if there are no hands
         fingerTip.visible = false;
+    }
     }
 
 }
