@@ -157,6 +157,7 @@ function keyPressed() {
     if (key === " ") {
         gameStart = true;
 
+        // Start sprite colliders
         
     }
 }
