@@ -72,9 +72,6 @@ function setup() {
     balloon.strokeWeight = 5;
     balloon.x = width / 2;
     balloon.y = height * 0.2;
-    balloon.bounciness = 1;
-    balloon.mass = 5;
-    balloon.drag = 0.1;
 
     leftWall = new Sprite();
     leftWall.x = 0;
