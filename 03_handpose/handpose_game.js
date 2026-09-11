@@ -138,6 +138,7 @@ function draw() {
         } else {
             // Hide sprite if there are no hands
             fingerTip.visible = false;
+            fingerTip.collider = "none";
         }
     }
 }
