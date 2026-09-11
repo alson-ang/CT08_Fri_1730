@@ -104,7 +104,7 @@ function setup() {
 }
 
 function draw() {
-    // Draw webcam video
+    // Draw webcam video and clear screen
     image(video, 0, 0, videoW, videoH);
 
     // Show start menu
