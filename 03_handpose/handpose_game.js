@@ -110,14 +110,14 @@ function draw() {
     // Show start menu
     if (gameStart === false) {
         // Title
-        textSize(40);
         textAlign(CENTER, CENTER); // horizontal & vertical alignment
+        textSize(40);
         fill("rgb(0, 255, 20)")
         text("Bounce the Ball", width / 2, height / 2);// text(string, x, y)
         
         // Instructions
         textSize(32);
-        
+        fill
     }
 
     // Check if model detects a hand
