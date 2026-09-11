@@ -117,7 +117,7 @@ function draw() {
         
         // Instructions
         textSize(32);
-        fill
+        fill("rgb(0, 200, 20)")
     }
 
     // Check if model detects a hand
