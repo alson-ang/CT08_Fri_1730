@@ -68,7 +68,7 @@ function setup() {
     balloon.diameter = 80;
     balloon.collider = "none";
     balloon.color = "rgb(255, 0, 0)";
-    balloon.stroke = "rgb(255, 0, 0)";
+    balloon.stroke = "rgb(100, 0, 0)";
     balloon.x = width / 2;
     balloon.y = height * 0.2;
     balloon.bounciness = 1;
