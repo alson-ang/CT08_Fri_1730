@@ -109,7 +109,7 @@ function draw() {
 
     // Show start menu
     if (gameStart === false) {
-        
+        // (text)
     }
 
     // Check if model detects a hand
