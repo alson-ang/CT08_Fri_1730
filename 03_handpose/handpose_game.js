@@ -109,7 +109,8 @@ function draw() {
 
     // Show start menu
     if (gameStart === false) {
-        textSize(40)
+        textSize(40);
+        fill
         // text(string, x, y)
     }
 
