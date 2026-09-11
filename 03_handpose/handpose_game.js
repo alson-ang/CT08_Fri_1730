@@ -65,9 +65,10 @@ function setup() {
     fingerTip.visible = false;
 
     balloon = new Sprite();
-    balloon.diameter = 60;
+    balloon.diameter = 80;
     balloon.collider = "none";
     balloon.color = "rgb(255, 0, 0)";
+    balloon.
     balloon.x = width / 2;
     balloon.y = height * 0.2;
     balloon.bounciness = 1;
