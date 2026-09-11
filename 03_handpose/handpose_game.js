@@ -12,7 +12,8 @@ let balloon;
 let leftWall, rightWall, topWall, botWall;
 
 // Game variable
-let gameStart, gameOver;
+let gameStart = false;
+
 
 //=========================================
 // Code
