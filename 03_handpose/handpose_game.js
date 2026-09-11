@@ -118,7 +118,7 @@ function draw() {
         // Instructions
         textSize(32);
         fill("rgb(0, 200, 20)");
-        
+        text("Bounce the Ball", width / 2, height / 2);
     }
 
     // Check if model detects a hand
