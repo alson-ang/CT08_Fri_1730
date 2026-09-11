@@ -123,24 +123,23 @@ function draw() {
         text("Press Space to start", width * 0.5, height * 0.7);
     } else {
         // Check if model detects a hand
-    if (hands.length > 0) {
-        // console.log(hands);
+        if (hands.length > 0) {
+            // console.log(hands);
 
-        // Set keypoint to index finger tip position
-        let currentHand = hands[0];
-        let keypoint = currentHand.keypoints[8];
-        // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
+            // Set keypoint to index finger tip position
+            let currentHand = hands[0];
+            let keypoint = currentHand.keypoints[8];
+            // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
 
-        // Make sprite follow finger tip
-        fingerTip.x = keypoint.x;
-        fingerTip.y = keypoint.y;
-        fingerTip.visible = true;
-    } else {
-        // Hide sprite if there are no hands
-        fingerTip.visible = false;
+            // Make sprite follow finger tip
+            fingerTip.x = keypoint.x;
+            fingerTip.y = keypoint.y;
+            fingerTip.visible = true;
+        } else {
+            // Hide sprite if there are no hands
+            fingerTip.visible = false;
+        }
     }
-    }
-
 }
 
 //=========================================
