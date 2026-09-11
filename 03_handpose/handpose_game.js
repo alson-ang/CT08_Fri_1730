@@ -84,8 +84,13 @@ function setup() {
     topWall = new Sprite();
     topWall.x = width / 2;
     topWall.y = 0;
-    topWall.width = 5;
-    topWall.height = height;
+    topWall.width = width;
+    topWall.height = 5;
+    topWall = new Sprite();
+    topWall.x = width / 2;
+    topWall.y = 0;
+    topWall.width = width;
+    topWall.height = 5;
 }
 
 function draw() {
