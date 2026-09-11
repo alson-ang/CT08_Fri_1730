@@ -107,8 +107,9 @@ function draw() {
     // Draw webcam video
     image(video, 0, 0, videoW, videoH);
 
+    // Show start menu
     if (gameStart === false) {
-        //
+        
     }
 
     // Check if model detects a hand
