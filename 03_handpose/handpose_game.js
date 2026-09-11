@@ -150,3 +150,7 @@ function gotHands(results) {
     // Model detects hand and saves the output here
     hands = results;
 }
+
+function keyPressed() {
+    
+}
