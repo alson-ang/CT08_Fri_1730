@@ -113,12 +113,12 @@ function draw() {
         textAlign(CENTER, CENTER); // horizontal & vertical alignment
         textSize(40);
         fill("rgb(0, 255, 20)");
-        text("Bounce the Ball", width / 2, height / 2); // text(string, x, y)
+        text("Bounce the Ball", width * 0.5, height * 0.5); // text(string, x, y)
         
         // Instructions
         textSize(32);
         fill("rgb(0, 200, 20)");
-        text("Use your Index Finger to Bounce the Ball", width / 2, height * 0.6);
+        text("Use your Index Finger to Bounce the Ball", width * 0.5, height * 0.6);
     }
 
     // Check if model detects a hand
