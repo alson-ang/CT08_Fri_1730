@@ -137,7 +137,7 @@ function draw() {
             fingerTip.x = keypoint.x;
             fingerTip.y = keypoint.y;
             fingerTip.visible = true;
-            fingerTip.collider = "none";
+            fingerTip.collider = "kinematic";
         } else {
             // Hide sprite if there are no hands
             fingerTip.visible = false;
