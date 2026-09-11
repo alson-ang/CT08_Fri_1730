@@ -11,6 +11,9 @@ let fingerTip;
 let balloon;
 let leftWall, rightWall, topWall, botWall;
 
+// Game variable
+let 
+
 //=========================================
 // Code
 //=========================================
