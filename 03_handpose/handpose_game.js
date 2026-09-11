@@ -72,8 +72,8 @@ function setup() {
     leftWall = new Sprite();
     leftWall.x = 1;
     leftWall.y = 1;
-    leftWall.w = 1;
-
+    leftWall.width = 1;
+    leftWall.height = 1;
 }
 
 function draw() {
