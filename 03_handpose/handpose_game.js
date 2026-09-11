@@ -76,7 +76,7 @@ function setup() {
     leftWall.height = height;
 
     rightWall = new Sprite();
-    rightWall.x = 0;
+    rightWall.x = width;
     rightWall.y = height / 2;
     rightWall.width = 5;
     rightWall.height = height;
