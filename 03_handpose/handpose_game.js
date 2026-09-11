@@ -107,7 +107,7 @@ function draw() {
     if (hands.length > 0) {
         // console.log(hands);
 
-        // 
+        // Set keypoint to 
         let currentHand = hands[0];
         let keypoint = currentHand.keypoints[8];
         // circle(keypoint.x, keypoint.y, 10);   // (x pos, y pos, diameter)
