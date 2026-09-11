@@ -9,7 +9,7 @@ let hands = [];
 // Game sprites
 let fingerTip;
 let balloon;
-
+let left
 
 //=========================================
 // Code
