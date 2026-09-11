@@ -111,7 +111,7 @@ function draw() {
     if (gameStart === false) {
         textSize(40);
         fill("rgb(0, 255, 20)")
-        text("Bounce the Ball", );// text(string, x, y)
+        text("Bounce the Ball", width / 2, height / 2);// text(string, x, y)
     }
 
     // Check if model detects a hand
