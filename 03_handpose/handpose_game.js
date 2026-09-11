@@ -86,11 +86,12 @@ function setup() {
     topWall.y = 0;
     topWall.width = width;
     topWall.height = 5;
-    topWall = new Sprite();
-    topWall.x = width / 2;
-    topWall.y = 0;
-    topWall.width = width;
-    topWall.height = 5;
+
+    botWall = new Sprite();
+    botWall.x = width / 2;
+    botWall.y = 0;
+    botWall.width = width;
+    botWall.height = 5;
 }
 
 function draw() {
